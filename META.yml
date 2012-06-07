@@ -1,0 +1,40 @@
+---
+abstract: 'Perl module for rewrite die by err from Error::Pure module.'
+author:
+  - 'Michal Špaček <skim@cpan.org>'
+build_requires:
+  Cwd: 0
+  English: 0
+  ExtUtils::MakeMaker: 6.36
+  File::Spec::Functions: 0
+  FindBin: 0
+  Test::More: 0
+  Test::Pod: 0
+  Test::Pod::Coverage: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.06'
+license: bsd
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Error-Pure-Always
+no_index:
+  directory:
+    - examples
+    - inc
+    - t
+requires:
+  Cwd: 0
+  English: 0
+  Exporter: 0
+  List::MoreUtils: 0
+  Readonly: 0
+resources:
+  bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Error-Pure-Always
+  homepage: https://github.com/tupinek/Error-Pure-Always
+  license: http://opensource.org/licenses/bsd-license.php
+  repository: git://github.com/tupinek/Error-Pure-Always
+version: 0.01
