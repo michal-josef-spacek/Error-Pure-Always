@@ -1,4 +1,5 @@
 0.03
+- Add Test::NoWarnings to tests.
 
 0.02 (June 19, 2012)
 - Fix required modules.
