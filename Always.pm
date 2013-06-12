@@ -13,7 +13,7 @@ our $VERSION = 0.03;
 my %OLD_SIG;
 
 # Default error type.
-$ENV{'ERROR_PURE_TYPE'} = 'Die';
+$ENV{'ERROR_PURE_TYPE'} ||= 'Die';
 
 BEGIN {
 	@OLD_SIG{qw(__DIE__)} = @SIG{qw(__DIE__)};
