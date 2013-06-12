@@ -1,8 +1,10 @@
 TODO
 ====
-1. Proc nefunguje EXAMPLE1?
 2. Pridat SIGNATURE soubor.
 3.
 
 Applied
 =======
+1. Proc nefunguje EXAMPLE1?
+Uz funguje, zapomel jsem default Error::Pure::TYPE.
+OK [20130613] skim
