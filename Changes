@@ -1,6 +1,7 @@
 0.03
 - Add Test::NoWarnings to tests.
 - Add default error type.
+- Add modules to SEE ALSO section in doc.
 - Rename CHANGES to Changes.
 
 0.02 (June 19, 2012)
