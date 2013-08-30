@@ -1,4 +1,5 @@
 0.03
+- Add LICENSE file.
 - Add Test::NoWarnings to tests.
 - Add default error type.
 - Add modules to SEE ALSO section in doc.
