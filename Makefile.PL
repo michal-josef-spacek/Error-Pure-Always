@@ -10,7 +10,7 @@ abstract 'Perl module for rewrite die by err from Error::Pure module.';
 author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
 name 'Error-Pure-Always';
-requires 'Error::Pure' => 0.07;
+requires 'Error::Pure' => 0.11;
 requires 'perl' => '5.6.2';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Error-Pure-Always';

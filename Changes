@@ -5,6 +5,7 @@
 - Add dependency for perl (based on Error::Pure).
 - Add modules to SEE ALSO section in doc.
 - Rename CHANGES to Changes.
+- Update Error::Pure dependency to last version.
 
 0.02 (June 19, 2012)
 - Fix required modules.

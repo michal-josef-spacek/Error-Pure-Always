@@ -25,7 +25,7 @@ no_index:
     - inc
     - t
 requires:
-  Error::Pure: 0.07
+  Error::Pure: 0.11
   perl: 5.6.2
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Error-Pure-Always
