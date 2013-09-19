@@ -2,6 +2,7 @@
 - Add LICENSE file.
 - Add Test::NoWarnings to tests.
 - Add default error type.
+- Add dependency for perl (based on Error::Pure).
 - Add modules to SEE ALSO section in doc.
 - Rename CHANGES to Changes.
 
