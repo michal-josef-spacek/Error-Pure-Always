@@ -1,14 +1,15 @@
 0.03
-- Add LICENSE file.
-- Add Test::NoWarnings to tests.
-- Add default error type.
-- Add dependency for perl (based on Error::Pure).
-- Add modules to SEE ALSO section in doc.
-- Rename CHANGES to Changes.
-- Update Error::Pure dependency to last version.
+ - Add LICENSE file.
+ - Add Test::NoWarnings to tests.
+ - Add default error type.
+ - Add dependency for perl (based on Error::Pure).
+ - Add modules to SEE ALSO section in doc.
+ - Rename CHANGES to Changes.
+ - Rewrite Changes file to CPAN::Changes::SPEC format.
+ - Update Error::Pure dependency to last version.
 
-0.02 (June 19, 2012)
-- Fix required modules.
+0.02 2012-06-19
+ - Fix required modules.
 
-0.01 (June 19, 2012)
-- First version.
+0.01 2012-06-19
+ - First version.
