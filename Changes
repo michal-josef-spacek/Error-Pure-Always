@@ -1,5 +1,6 @@
 0.03 2013-09-21
  - Add LICENSE file.
+ - Add SIGNATURE file.
  - Add Test::NoWarnings to tests.
  - Add default error type.
  - Add dependency for perl (based on Error::Pure).
