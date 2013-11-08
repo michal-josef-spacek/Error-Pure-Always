@@ -1,6 +1,5 @@
 TODO
 ====
-2. Pridat SIGNATURE soubor.
 3. Pridat testy.
 4.
 
@@ -9,3 +8,6 @@ Applied
 1. Proc nefunguje EXAMPLE1?
 Uz funguje, zapomel jsem default Error::Pure::TYPE.
 OK [20130613] skim
+
+2. Pridat SIGNATURE soubor.
+OK [20131108] skim
