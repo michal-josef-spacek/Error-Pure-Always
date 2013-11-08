@@ -1,4 +1,6 @@
 0.04
+ - Improve example in Error::Pure::Always doc to explicit set to default
+   Error::Pure::TYPE.
 
 0.03 2013-09-21
  - Add LICENSE file.

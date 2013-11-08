@@ -56,6 +56,9 @@ Error::Pure::Always - Perl module for rewrite die by err from Error::Pure module
  # Modules.
  use Error::Pure::Always;
 
+ # Set env error type.
+ $ENV{'ERROR_PURE_TYPE'} = 'Die';
+
  # Error.
  die '1';
 
