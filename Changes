@@ -1,4 +1,5 @@
 0.04
+ - Add 'readme_from' directive to Makefile.PL.
  - Improve example in Error::Pure::Always doc to explicit set to default
    Error::Pure::TYPE.
 

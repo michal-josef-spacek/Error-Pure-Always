@@ -15,6 +15,9 @@ EXAMPLE1
      # Modules.
      use Error::Pure::Always;
 
+     # Set env error type.
+     $ENV{'ERROR_PURE_TYPE'} = 'Die';
+
      # Error.
      die '1';
 
@@ -61,7 +64,10 @@ DEPENDENCIES
 
 SEE ALSO
     Error::Pure, Error::Pure::AllError, Error::Pure::Die,
-    Error::Pure::Error, Error::Pure::ErrorList, Error::Pure::Output::Text,
+    Error::Pure::Error, Error::Pure::ErrorList, Error::Pure::HTTP::AllError,
+    Error::Pure::HTTP::Error, Error::Pure::HTTP::ErrorList,
+    Error::Pure::HTTP::Print, Error::Pure::HTTP::JSON, Error::Pure::JSON,
+    Error::Pure::Output::JSON, Error::Pure::Output::Text,
     Error::Pure::Print.
 
 ACKNOWLEDGMENTS
