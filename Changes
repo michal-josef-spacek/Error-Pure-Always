@@ -1,5 +1,6 @@
 0.04
  - Add 'readme_from' directive to Makefile.PL.
+ - Fix LICENSE file.
  - Improve example in Error::Pure::Always doc to explicit set to default
    Error::Pure::TYPE.
  - Update Module::Install to 1.08 version.
