@@ -8,7 +8,7 @@ use warnings;
 use Error::Pure qw(err);
 
 # Version.
-our $VERSION = 0.04;
+our $VERSION = 0.05;
 
 my %OLD_SIG;
 
@@ -143,6 +143,6 @@ BSD license.
 
 =head1 VERSION
 
-0.04
+0.05
 
 =cut
