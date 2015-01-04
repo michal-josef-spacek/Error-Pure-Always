@@ -12,7 +12,7 @@ license 'bsd';
 name 'Error-Pure-Always';
 readme_from 'Always.pm';
 requires 'Error::Pure' => 0.15;
-requires 'perl' => '5.6.2';
+requires 'perl' => '5.6.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Error-Pure-Always';
 resources 'homepage' => 'https://github.com/tupinek/Error-Pure-Always';
