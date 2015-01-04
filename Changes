@@ -1,4 +1,5 @@
 0.05
+ - Improve LICENSE AND COPYRIGHT section in doc.
  - Update Module::Install to 1.14 version.
  - Update copyright years to 2015.
 
