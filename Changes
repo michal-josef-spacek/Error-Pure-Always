@@ -1,5 +1,6 @@
 0.05
  - Update Module::Install to 1.14 version.
+ - Update copyright years to 2015.
 
 0.04 2014-09-05T00:49:24+02:00
  - Add 'readme_from' directive to Makefile.PL.
