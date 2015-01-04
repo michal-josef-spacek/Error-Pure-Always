@@ -22,3 +22,4 @@ t/Error-Pure-Always/00-use.t
 t/Error-Pure-Always/01-version.t
 t/Error-Pure-Always/02-pod_coverage.t
 t/Error-Pure-Always/03-pod.t
+t/Error-Pure-Always/04-err.t
