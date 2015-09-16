@@ -63,12 +63,8 @@ DEPENDENCIES
     Error::Pure.
 
 SEE ALSO
-    Error::Pure, Error::Pure::AllError, Error::Pure::Die,
-    Error::Pure::Error, Error::Pure::ErrorList, Error::Pure::HTTP::AllError,
-    Error::Pure::HTTP::Error, Error::Pure::HTTP::ErrorList,
-    Error::Pure::HTTP::Print, Error::Pure::HTTP::JSON, Error::Pure::JSON,
-    Error::Pure::Output::JSON, Error::Pure::Output::Text,
-    Error::Pure::Print.
+    Task::Error::Pure
+        Install the Error::Pure modules.
 
 ACKNOWLEDGMENTS
     Thanks for Carp::Always module.
