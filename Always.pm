@@ -113,7 +113,7 @@ Thanks for L<Carp::Always> module.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Error-Pure-Always>
+L<https://github.com/michal-josef-spacek/Error-Pure-Always>
 
 =head1 AUTHOR
 
