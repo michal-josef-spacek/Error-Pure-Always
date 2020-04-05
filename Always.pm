@@ -1,13 +1,10 @@
 package Error::Pure::Always;
 
-# Pragmas.
 use strict;
 use warnings;
 
-# Modules.
 use Error::Pure qw(err);
 
-# Version.
 our $VERSION = 0.07;
 
 my %OLD_SIG;
@@ -49,11 +46,9 @@ Error::Pure::Always - Perl module for rewrite die by err from Error::Pure module
 
 =head1 EXAMPLE1
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Error::Pure::Always;
 
  # Set env error type.
@@ -67,11 +62,9 @@ Error::Pure::Always - Perl module for rewrite die by err from Error::Pure module
 
 =head1 EXAMPLE2
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Error::Pure::Always;
 
  # Set env error type.
@@ -85,11 +78,9 @@ Error::Pure::Always - Perl module for rewrite die by err from Error::Pure module
 
 =head1 EXAMPLE3
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Error::Pure::Always;
 
  # Set error type.
